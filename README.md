@@ -1,9 +1,12 @@
 - 👋 Hi, I’m Max
 - 👀 I’m interested in programming and playing games
 - 🌱 I’m currently learning C#, Java, HTML, CSS, JS
-- 📫 Reach me with Discord: MaxTheMinerBoy#5530 or email: max@maximilian.co.nz
+- 📫 Reach me with Discord: MTMB#5530 or email: max@maximilian.co.nz
+- 😳 Best emoji is :flushed:
 
-😳
+Most asked questions🤯:
+- "have you ever played the hit game "Among us"?"
+- When did I ask
 
 <!---
 MaximilianMcC/MaximilianMcC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
