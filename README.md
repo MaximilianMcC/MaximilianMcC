@@ -1,5 +1,6 @@
-[Header Image](http://maximilian.co.nz/assets/images/header1.png)
+# Maximilian McCarthy🤯
 
+**Info 🤓**
 - Website: *http://maximilian.co.nz/*
 - Other wbesite: *https://maxtheminerboy.net/*
 - Languages: *C#, Java, Python, HTML, CSS, JS*
