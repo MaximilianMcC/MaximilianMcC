@@ -10,6 +10,7 @@
 <br>
 
 <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=maximilianmcc&show_icons=true&theme=transparent&hide_border=true" alt="My GitHub stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maximilianmcc&layout=compact&theme=transparent&hide_border=true" alt="My most used languages">
 </div>
 
