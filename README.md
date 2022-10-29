@@ -1,31 +1,32 @@
+<h1 align="center">Maximilian McCarthy</h1>
+
+###
+
+<p align="center">I like to code and play games. I also watch a lot of YouTube💀</p>
+
+###
+
 <div align="center">
-<h1><strong>Maximilian McCarthy</strong></h1>
-
-<div>
-    <p>I like to code and play games. I also watch a lot of YouTube💀</p>
-</div> 
-
-<br>
-<br>
-<br>
-
-<div>
-    <img src="https://github-readme-stats.vercel.app/api?username=maximilianmcc&show_icons=true&theme=transparent&hide_border=true" alt="My GitHub stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maximilianmcc&layout=compact&theme=transparent&hide_border=true" alt="My most used languages">
+  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=true&custom_title=GitHub Stats&username=MaximilianMcc" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=true&username=MaximilianMcc" height="150" alt="languages graph"  />
 </div>
 
-<br>
-<br>
-<br>
-<hr>
+###
 
-<div>
-    <a href="http://maximilian.co.nz/">
-        <img src="https://img.shields.io/badge/website-maximilian.co.nz-yellow?style=for-the-badge">
-    </a>
-    <a href="http://maximilian.co.nz/">
-        <img src="https://img.shields.io/badge/website-maxtheminerboy.net-yellow?style=for-the-badge">
-    </a>
+<img src="https://raw.githubusercontent.com/MaximilianMcc/MaximilianMcc/blob/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <a href="https://discordapp.com/users/320672010332274690" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="60" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.youtube.com/c/MTMByt" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="60" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/14634639/max-mccarthy" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="60" height="40" alt="stackoverflow logo"  />
+  </a>
 </div>
 
-</div>
+###
