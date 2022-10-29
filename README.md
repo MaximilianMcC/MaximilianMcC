@@ -10,7 +10,7 @@
 <br>
 
 <div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maximilianmcc&layout=compact&theme=dark" alt="My most used languages">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maximilianmcc&layout=compact&theme=transparent&hide_border=true" alt="My most used languages">
 </div>
 
 <br>
