@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">I like to code and play games. I also watch a lot of YouTube💀</p>
+<p align="center">I like to code and play games. I also watch a lot of YouTube.</p>
 
 ###
 <div align="center">
@@ -16,13 +16,7 @@
 ###
 
 <div align="center">
-  </a>
-  <a href="https://www.youtube.com/c/MTMByt" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="60" height="40" alt="youtube logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/14634639/max-mccarthy" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="60" height="40" alt="stackoverflow logo"  />
-  </a>
+ <a href="http://maximilian.co.nz/" target="_blank"><b>My Website</b></a>
 </div>
 
 ###
