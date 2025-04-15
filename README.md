@@ -7,7 +7,7 @@
 
 
 <div align="center">
-  <img src="https://discord.c99.nl/widget/theme-4/320672010332274690.png" alt="Discord Status" />
+  <img src="https://discord.c99.nl/widget/theme-5/320672010332274690.png" alt="Discord Status" />
 </div>
 
 <div align="center">
