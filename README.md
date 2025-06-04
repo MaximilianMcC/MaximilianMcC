@@ -2,7 +2,7 @@
 
 ---
 
-<p align="center">I like to code and play games. I also watch a lot of YouTube.</p>
+<p align="center">Kia ora te ao or something idk</p>
 
 
 
